@@ -170,4 +170,9 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# Node packages
 node_modules
+
+# Temporary files and old code
+temp
+old
